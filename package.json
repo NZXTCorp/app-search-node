@@ -1,7 +1,7 @@
 {
-  "name": "@elastic/app-search-node",
-  "version": "7.16.0",
-  "description": "Elastic App Search Node.js client",
+  "name": "@nzxt/app-search-node",
+  "version": "7.16.0-next1",
+  "description": "Elastic App Search Node.js client, NZXT fork",
   "files": [
     "lib/"
   ],
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elastic/app-search-node.git"
+    "url": "git+https://github.com/NZXTCorp/app-search-node"
   },
   "engines": {
     "node": ">= v6.5.0"
@@ -19,9 +19,9 @@
   "author": "Elastic",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/elastic/app-search-node/issues"
+    "url": "https://github.com/NZXTCorp/app-search-node/issues"
   },
-  "homepage": "https://github.com/elastic/app-search-node#readme",
+  "homepage": "https://github.com/NZXTCorp/app-search-node/app-search-node#readme",
   "devDependencies": {
     "mocha": "^7.0.0",
     "replay": "~2.4.0"
